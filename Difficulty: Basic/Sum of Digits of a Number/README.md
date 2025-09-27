@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1?page=1&category=Recursion&status=solved&sortBy=submissions">Sum of Digits of a Number</a></h2><h3>Difficulty Level : Difficulty: Basic</h3><hr><div class="problems_problem_content__Xm_eO" style="user-select: auto;"><p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">You are given a number <strong style="user-select: auto;">n</strong>. You need to find the<strong style="user-select: auto;"> sum of digits</strong> of n.</span></p>
+<p style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Examples :</strong></span></p>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>n = 1
+<strong style="user-select: auto;">Output: </strong>1
+<strong style="user-select: auto;">Explanation: </strong>Sum of digit of 1 is 1.</span></pre>
+<pre style="user-select: auto;"><span style="font-size: 18px; user-select: auto;"><strong style="user-select: auto;">Input: </strong>n = 99999
+<strong style="user-select: auto;">Output: </strong>45
+<strong style="user-select: auto;">Explanation: </strong>Sum of digit of 99999 is 45.</span></pre>
+<p style="user-select: auto;"><strong style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">Constraints: </span></strong><br style="user-select: auto;"><span style="font-size: 18px; user-select: auto;">1 ≤ n ≤ 10<sup style="user-select: auto;">7</sup></span></p></div><br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Recursion</code>&nbsp;<code>Algorithms</code>&nbsp;
